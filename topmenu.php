@@ -35,7 +35,7 @@
 								<li><a href="comingsoon.html">Coming soon page</a></li>
 							</ul>
 						</li>-->
-						<li class=""><a href="blog.html">Staff</a></li>
+						<li class=""><a href="#">Staff</a></li>
 						<li class=""><a href="contact.php">Contact Us</a></li>
 					</ul>
 				</div>
