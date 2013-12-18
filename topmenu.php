@@ -12,8 +12,8 @@
 					<ul class="nav pull-right">
 						<li class="active"><a href="index.php">Home	</a></li>
 						<li class=""><a href="about_us.php">About Us</a></li>  
-						<li class=""><a href="services.html">Services</a></li>
-						<li class="dropdown">
+						<li class=""><a href="services.php">Services</a></li>
+<!--						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">requesties<b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li><a href="elements.html">Services</a></li>
@@ -27,14 +27,14 @@
                                                                 <li><a href="elements.html">Internship attachments consultancy </a></li>
 								<li><a href="comingsoon.html">Repertoire services</a></li>
 							</ul>
-						</li>
-						<li class="dropdown">
+						</li>-->
+<!--						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Features<b class="caret"></b></a>
 							<ul class="dropdown-menu">
 								<li><a href="elements.html">Page Elements</a></li>
 								<li><a href="comingsoon.html">Coming soon page</a></li>
 							</ul>
-						</li>
+						</li>-->
 						<li class=""><a href="blog.html">Staff</a></li>
 						<li class=""><a href="contact.php">Contact Us</a></li>
 					</ul>

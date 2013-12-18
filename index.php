@@ -94,8 +94,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" class="popOver" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-magic"></i>
+					<a href="#" class="" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-magic"></i>-->
+                                        <img src="img/art.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>Kiswahili Courses</span>
 					</a>
 					</h4>
@@ -105,8 +106,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" class="popOver" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML &amp; CSS Conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-link"></i>
+					<a href="#" class="" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML &amp; CSS Conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-link"></i>-->
+                                        <img src="img/compstud1.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>Computer studies </span>
 					</a>
 					</h4>
@@ -116,8 +118,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" class="popOver" data-placement="top" data-content="  > Website development<br> > Updating website. <br> > Compitibility " data-original-title="For any online activities  ... " style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-cogs"></i>
+					<a href="#" class="" data-placement="top" data-content="  > Website development<br> > Updating website. <br> > Compitibility " data-original-title="For any online activities  ... " style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-cogs"></i>-->
+                                        <img src="img/intlang.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>English language</span>
 					</a>
 					</h4>
@@ -127,8 +130,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" class="popOver" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML &amp; CSS Conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-wrench"></i>
+					<a href="#" class="" data-placement="top" data-content=" > Website Design<br> > PSD To XHTML &amp; CSS Conversion<br> > Graphic Design (Coverpage, Logo, Brocer etc.)" data-original-title="Your Website represents You..." style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-wrench"></i>-->
+                                        <img src="img/tourism4.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>Tourism studies</span>
 					</a>
 					</h4>
@@ -138,8 +142,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" id="poverone" class="popOver" data-placement="top" data-content=" > Customizing different websites  <br> > e-commersesite  <br> > Blogs and Forums etc.<br> > Customization web packages" data-original-title="Drive your business in The Fast Track..." style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-beaker"></i>
+					<a href="#" id="" class="" data-placement="top" data-content=" > Customizing different websites  <br> > e-commersesite  <br> > Blogs and Forums etc.<br> > Customization web packages" data-original-title="Drive your business in The Fast Track..." style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-beaker"></i>-->
+                                        <img src="img/art1.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>Art and artcrafts </span>
 					</a>
 					</h4>
@@ -149,8 +154,9 @@ Kiswahili literature.
 			<div class="span2">
 				<div class="well well-small">
 					<h4>
-					<a href="#" class="popOver" data-placement="top" data-content=" > Drupal, Joomla and Wordpress Solution<br>> Dating Site Customization<br>> And many more.." data-original-title="Opensources web solution..." style="display:block; text-decoration:none">
-					<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>
+					<a href="#" class="" data-placement="top" data-content=" > Drupal, Joomla and Wordpress Solution<br>> Dating Site Customization<br>> And many more.." data-original-title="Opensources web solution..." style="display:block; text-decoration:none">
+					<!--<i style="width:auto; font-size:2em; line-height:1em; height:auto" class="icon-volume-up"></i>-->
+                                         <img src="img/culturestudy.jpg" class="img-circle" style="height: 140px;width: 140px" />
 					<span><br/>Culture studies</span>
 					</a>
 					</h4>
@@ -158,6 +164,7 @@ Kiswahili literature.
 				</div>
 			</div>	
 		</div>
+    <div class="pull-right btn"><a href="services.php">See All Programs</a></div>
 		</div>
 </section>
 <section id="bodySection">
@@ -212,7 +219,7 @@ Kiswahili literature.
 	  <a href="#" target="_blank"><img src="themes/images/clients/twitterLogo.jpg" alt="business template"></a>
 	  <a href="#" target="_blank"><img src="themes/images/clients/googleLogo.jpg" alt="business template"></a>
 	  <a href="#" target="_blank"><img src="themes/images/clients/facebookLogo.jpg" alt="business template"></a>
-	  <a href="http://mywebsolution.info" target="_blank"><img src="themes/images/clients/my_web_solution.jpg" alt="business template"></a>
+	  <!--<a href="http://mywebsolution.info" target="_blank"><img src="themes/images/clients/my_web_solution.jpg" alt="business template"></a>-->
 </div>
 </section>
 <!-- body block end======================================== -->
